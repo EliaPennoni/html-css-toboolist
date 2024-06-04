@@ -3,3 +3,92 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    line-height: 30px;
+}
+header *{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+main{
+    background-color: lightgray;
+}
+
+.container{
+    background-color: white;
+    width: 70%;
+    margin: 0% auto;
+    padding: 20px;
+    
+}
+
+.button{
+
+}
+input {
+    background-color: lightskyblue;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+
+}
+
+.circle-check{
+    border: 1px solid green;
+    color: green;
+    
+}
+.circle-wrong{
+    border: 1px solid red;
+    color: red;
+
+}
+.circle{
+    display:inline-block;
+    border-radius: 50%;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.special{
+    width: 50px;
+    border-radius: 10px;
+    color: white;
+    padding: 3px;
+}
+.editorial{
+    background-color: lightskyblue;
+
+}
+
+.q1lauch{
+    background-color: blueviolet;
+}
+
+.recruiting{
+    background-color: green;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.refresh{
+    background-color: pink;
+}
+
+.sales{
+    background-color: green;
+}
+
+.midpart{
+    margin-top: 30px;
+}
+
